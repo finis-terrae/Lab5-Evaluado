@@ -1,6 +1,6 @@
 # Lab5
 
-# Laboratorio 2 (Evaluado)
+# Laboratorio 5 (Evaluado)
 # Consideraciones importantes 
 
   - El laboratorio se puede hacer con un máximo de 2 personas
